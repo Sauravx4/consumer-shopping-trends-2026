@@ -1,0 +1,6 @@
+# ignore large or unnecessary files
+*.db
+__pycache__/
+*.pyc
+.vscode/
+*.log
