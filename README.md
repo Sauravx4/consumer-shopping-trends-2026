@@ -62,7 +62,7 @@ Five new columns created during analysis:
 ---
 
 ## Dashboard Preview
-![Overview](images/dashboard_overview.png)
+![Overview](https://raw.githubusercontent.com/Sauravx4/consumer-shopping-trends-2026/main/images/Dashboard.png)
 
 ---
 
@@ -76,5 +76,5 @@ Five new columns created during analysis:
 ---
 
 ## Connect with Me
-- LinkedIn: your-linkedin-url
-- Kaggle: your-kaggle-url
+- LinkedIn:https://www.linkedin.com/in/saurav-codease/
+- Kaggle: https://www.kaggle.com/sauravmourya
