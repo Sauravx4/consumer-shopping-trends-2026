@@ -77,4 +77,5 @@ Five new columns created during analysis:
 
 ## Connect with Me
 - LinkedIn:https://www.linkedin.com/in/saurav-codease/
-- Kaggle: https://www.kaggle.com/sauravmourya
+- Kaggle Dataset: https://www.kaggle.com/datasets/sauravmourya/consumer-shopping-trends-2026
+- Kaggle Notebook: https://www.kaggle.com/code/sauravmourya/consume-shopping-trends-2026
